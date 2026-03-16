@@ -32,16 +32,26 @@
 
 
     // DESAFIO #########################
-
+    // Calcule e depois apresente a $diferenca
     $peso_anterior = 75.3;
     $peso_atual = 77.4;
-    //$diferença = 
+    //$diferenca = 
     // echo "\n\nA diferença de peso é: ".
 
+
+    // Analise a saída de cada um dos comandos a seguir
+    $gomas = 54;
+    $amigos = 7;
+    $gomas_por_amigo = $gomas / $amigos;
+    echo "\n\nGomas por amigo: " . $gomas_por_amigo;
+
+    
+    // DESAFIO #########################
     // Complete a formula para cálculo do
     // Índice de Massa Corporal e apresente o resultado
     // $IMC = 
     // echo "...
+
     ?>
 </body>
 </html>

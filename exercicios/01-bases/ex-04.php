@@ -40,13 +40,20 @@
 
 
     // Analise a saída de cada um dos comandos a seguir
-    $gomas = 54;
+    $gomas = 56;
     $amigos = 7;
     $gomas_por_amigo = $gomas / $amigos;
     echo "\n\nGomas por amigo: " . $gomas_por_amigo;
 
-    
+
     // DESAFIO #########################
+
+    // As operações são realizadas pela ordem seguinte:
+    // - Operações entre parêntises;
+    // - Expoentes;
+    // - Multiplicações;
+    // - Adição e subtração.
+
     // Complete a formula para cálculo do
     // Índice de Massa Corporal e apresente o resultado
     // $IMC = 

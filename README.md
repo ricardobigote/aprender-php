@@ -125,6 +125,3 @@ Para dúvidas, sugestões ou feedback:
 🚀 **Boas aprendizagens!**
 Que cada exercício seja um degrau a mais na proficiência em **PHP** dos seus alunos.
 
-```
-
-```

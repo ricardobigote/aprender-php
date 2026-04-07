@@ -11,7 +11,7 @@ Com **exercícios simples** e passo-a-passo, exemplos comentados e alguns desafi
 ## 📂 Estrutura do repositório
 ```
 ├─ docs/                # Material de apoio
-├─ php/                 # Pastas com os exercícios
+├─ exercicios/          # Pastas com os exercícios
 │   ├─ 01-bases/        # Olá Mundo!, variáveis, operadores
 │   ├─ 02-controlo/     # Condicionais, ciclos
 │   ├─ 03-funcoes/      # Declaração e chamada de funções
@@ -81,14 +81,14 @@ As alterações serão refletidas imediatamente ao **recarregar a página no bro
 
 # 📖 Guia de estudo recomendado
 
-| Ordem | Tema                          | Exercício associado                   |
-| -------| -------------------------------| ---------------------------------------|
-| 1     | Olá Mundo e sintaxe básica    | `php/01-bases/ex-01.php e ex-02.php`  |
-| 2     | Variáveis, tipos e operadores | `php/01-bases/ex-03.php a ex-05.php`  |
-| 3     | Estruturas de controlo        | `php/02-controlo/`(em desenvolvimento)|
-| 4     | Funções                       | `php/03-funcoes/` (em desenvolvimento)|
-| 5     | Formulários e validação       | `php/04-formularios/` (em desenvolvi/)|
-| 6     | PDO + MySQL (CRUD)            | `php/05-basededados/` (em desenvolvi/)|
+| Ordem | Tema                          | Exercício associado                              |
+| -------| -------------------------------| -----------------------------------------------|
+| 1     | Olá Mundo e sintaxe básica    | `exercicios/01-bases/ex-01.php e ex-02.php`      |
+| 2     | Variáveis, tipos e operadores | `exercicios/01-bases/ex-03.php a ex-05.php`      |
+| 3     | Estruturas de controlo        | `exercicios/02-controlo/`    (em desenvolvimento)|
+| 4     | Funções                       | `exercicios/03-funcoes/`     (em desenvolvimento)|
+| 5     | Formulários e validação       | `exercicios/04-formularios/` (em desenvolvimento)|
+| 6     | PDO + MySQL (CRUD)            | `exercicios/05-basededados/` (em desenvolvimento)|
 
 ---
 

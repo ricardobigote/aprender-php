@@ -8,10 +8,11 @@
 <body>
     <?php
     // Para juntar duas strings, usa-se o .
+    // A isto chama-se concatenar stings.
     // Como por exemplo:
     echo "Teste..." . "um..." . "dois..." . "três.";
-    echo "\nTeste..." . " um..." . " dois..." . " três.";
-    echo "\nTeste..." . " " . "um..." . " " . "dois..." . " " . "três.";
+    echo "<br>Teste..." . " um..." . " dois..." . " três.";
+    echo "<br>Teste..." . " " . "um..." . " " . "dois..." . " " . "três.";
 
     // Use a concatenação de strings para juntar
     // uma string com o seu primeiro nome e outra

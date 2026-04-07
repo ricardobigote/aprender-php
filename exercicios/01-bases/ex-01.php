@@ -18,16 +18,16 @@
     Altere a saudação colocando o seu nome*/
     echo "Bem-vindo ao PHP <nome>!";
 
-    // Teste este ficheiro no browser e depois acrescente \n
+    // Teste este ficheiro no browser e depois acrescente <br>
     // imediatamente antes das palavras Bem-vindo
 
-    // Agora acrescente mais uma linha que faça
+    // Agora acrescente mais uma linha a seguir, que faça
     // aparecer o texto: Espero que goste!
 
 
     // Faça agora aparecer o texto: E que se "divirta".
     // Para que funcione corretamente, tem que colocar uma \
-    // antes de cada ", ficando assim \"
+    // antes de cada ", ficando assim -> \"
 
     ?>
 </body>

@@ -11,7 +11,7 @@
     // operadores adequados ao efeito.
     // No exemplo a seguir, as mensagens apenas aparecerão se
     // a variável $password tiver a palavra certa.
-    // Corrija a linha 29 de modo a aparecerem as mensagens. 
+    // Corrija a linha 15 de modo a aparecerem as mensagens. 
     $password = "querty";
     if ($password == "Escola!") {
         echo "Acesso concedido.<br>";

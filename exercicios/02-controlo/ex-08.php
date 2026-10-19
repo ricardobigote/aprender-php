@@ -27,6 +27,16 @@
     // Nas linhas abaixo, crie um array $cantores, com uma lista de cantores preferido.
     // Faça um ciclo foreach que apresente os nomes de todos os cantores.
 
+
+    // Em PHP podemos utilizar arrays associativos, em que cada posição é composta
+    // por uma chave e seu valor.
+    // Analise o exemplo do array a seguir, de uma lista de alunos e do seu
+    // número numa turma, e a forma como apresentar o seu conteúdo
+    // $alunos = array("Ana"=>"1", "Bernardo"=>"2", "Vasco"=>"23", "Maria"=>"7");
+
+    // foreach ($alunos as $chave => $valor) {
+    //     echo "$chave : $valor <br>";
+    // }
     ?>
 </body>
 </html>

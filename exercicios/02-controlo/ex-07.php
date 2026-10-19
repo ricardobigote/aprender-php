@@ -40,6 +40,14 @@
     //     if ($x == 3) break;
     //     echo "O número é: $x <br>";
     // }
+
+    // Caso se pretenda saltar uma ciclo a meio da sua execução, usamos o
+    // comando continue;
+    // Analise e descomente o exemplo a seguir.
+    // for ($x = 0; $x <= 10; $x++) {
+    //     if ($x == 3) continue;
+    //     echo "O número é: $x <br>";
+    // }
     ?>
 </body>
 </html>

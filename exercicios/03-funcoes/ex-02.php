@@ -8,20 +8,17 @@
 <body>
     <?php
     // As funções podem aceitar parâmetros de entrada como no exemplo a seguir.
-    $nome = "Ana";
     function cumprimenta($nome) {
         echo "Olá Mundo $nome !!!<br>";
     }
-    cumprimenta();
+    cumprimenta("Ana");
 
     // O exemplo a seguir a função aceita dois parâmetros de entrada.
     // Descomente e altere as variáveis para o seu caso.
-    // $nome = "Ana";
-    // $idade = 17;
     // function cumprimentaIdade($nome, $idade) {
     //     echo "Olá Mundo $nome !!! Tens $idade anos.<br>";
     // }
-    // cumprimentaIdade();
+    // cumprimentaIdade("Ana",17);
 
     // O exemplo a seguir o parâmetro tem um valor por defeito "Pessoa"
     // Descomente, teste e só depois tente atribuir um valor à variável.

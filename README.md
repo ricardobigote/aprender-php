@@ -84,7 +84,7 @@ As alterações serão refletidas imediatamente ao **recarregar a página no bro
 | Ordem | Tema                          | Exercício associado                              |
 | -------| -------------------------------| -----------------------------------------------|
 | 1     | Olá Mundo e sintaxe básica    | `exercicios/01-bases/ex-01.php e ex-02.php`      |
-| 2     | Variáveis, tipos e operadores | `exercicios/01-bases/ex-03.php a ex-05.php`      |
+| 2     | Variáveis, tipos e operadores | `exercicios/01-bases/ex-03.php a ex-07.php`      |
 | 3     | Estruturas de controlo        | `exercicios/02-controlo/`                        |
 | 4     | Funções                       | `exercicios/03-funcoes/`     (em desenvolvimento)|
 | 5     | Formulários e validação       | `exercicios/04-formularios/` (em desenvolvimento)|
